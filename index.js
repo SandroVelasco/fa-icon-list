@@ -3,7 +3,6 @@
  *
  * @private
  */
-
 const icons = require('./icons')
 
 /**
