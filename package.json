@@ -1,0 +1,28 @@
+{
+  "name": "fa-icon-list",
+  "version": "1.0.0",
+  "description": "All the FontAwesome 4.7.0 icon names.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/main.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lffg/fa-icon-list.git"
+  },
+  "keywords": [
+    "javascript",
+    "package",
+    "font-awesome",
+    "icon-list"
+  ],
+  "author": "Luiz Felipe F. <https://lffg.github.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lffg/fa-icon-list/issues"
+  },
+  "homepage": "https://github.com/lffg/fa-icon-list#readme",
+  "devDependencies": {
+    "japa": "^1.0.6"
+  }
+}
